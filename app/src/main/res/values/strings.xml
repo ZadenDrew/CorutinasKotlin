@@ -3,4 +3,8 @@
     <string name="button">Button</string>
     <string name="fecha">Fecha</string>
     <string name="boton">boton</string>
+    <string name="texto">texto</string>
+    <string name="principal">principal</string>
+    <string name="cuentaatras">cuentaatras</string>
+    <string name="saludo">saludo</string>
 </resources>
